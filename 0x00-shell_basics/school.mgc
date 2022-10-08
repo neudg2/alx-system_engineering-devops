@@ -1,1 +1,2 @@
-0 search File containing "SCHOOL"
+\no string SCHOOL shcool data\n!:mime school
+file -C -m school.mgc
